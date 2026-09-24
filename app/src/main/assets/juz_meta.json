@@ -1,0 +1,242 @@
+[
+  {
+    "juzNumber": 1,
+    "arabicName": "الم",
+    "startSurahId": 1,
+    "startSurahName": "سُورَةُ ٱلْفَاتِحَةِ",
+    "startAyah": 1,
+    "startPage604": 1
+  },
+  {
+    "juzNumber": 2,
+    "arabicName": "سَيَقُولُ",
+    "startSurahId": 2,
+    "startSurahName": "سُورَةُ البَقَرَةِ",
+    "startAyah": 142,
+    "startPage604": 22
+  },
+  {
+    "juzNumber": 3,
+    "arabicName": "تِلْكَ الرُّسُلُ",
+    "startSurahId": 2,
+    "startSurahName": "سُورَةُ البَقَرَةِ",
+    "startAyah": 253,
+    "startPage604": 42
+  },
+  {
+    "juzNumber": 4,
+    "arabicName": "لَنْ تَنَالُوا",
+    "startSurahId": 3,
+    "startSurahName": "سُورَةُ آلِ عِمۡرَانَ",
+    "startAyah": 93,
+    "startPage604": 62
+  },
+  {
+    "juzNumber": 5,
+    "arabicName": "وَالْمُحْصَنَاتُ",
+    "startSurahId": 4,
+    "startSurahName": "سُورَةُ النِّسَاءِ",
+    "startAyah": 24,
+    "startPage604": 82
+  },
+  {
+    "juzNumber": 6,
+    "arabicName": "لَا يُحِبُّ اللَّهُ",
+    "startSurahId": 4,
+    "startSurahName": "سُورَةُ النِّسَاءِ",
+    "startAyah": 148,
+    "startPage604": 102
+  },
+  {
+    "juzNumber": 7,
+    "arabicName": "وَإِذَا سَمِعُوا",
+    "startSurahId": 5,
+    "startSurahName": "سُورَةُ المَائـِدَةِ",
+    "startAyah": 82,
+    "startPage604": 121
+  },
+  {
+    "juzNumber": 8,
+    "arabicName": "وَلَوْ أَنَّنَا",
+    "startSurahId": 6,
+    "startSurahName": "سُورَةُ الأَنۡعَامِ",
+    "startAyah": 111,
+    "startPage604": 142
+  },
+  {
+    "juzNumber": 9,
+    "arabicName": "قَالَ الْمَلَأُ",
+    "startSurahId": 7,
+    "startSurahName": "سُورَةُ الأَعۡرَافِ",
+    "startAyah": 88,
+    "startPage604": 162
+  },
+  {
+    "juzNumber": 10,
+    "arabicName": "وَاعْلَمُوا",
+    "startSurahId": 8,
+    "startSurahName": "سُورَةُ الأَنفَالِ",
+    "startAyah": 41,
+    "startPage604": 182
+  },
+  {
+    "juzNumber": 11,
+    "arabicName": "يَعْتَذِرُونَ",
+    "startSurahId": 9,
+    "startSurahName": "سُورَةُ التَّوۡبَةِ",
+    "startAyah": 93,
+    "startPage604": 201
+  },
+  {
+    "juzNumber": 12,
+    "arabicName": "وَمَا مِنْ دَابَّةٍ",
+    "startSurahId": 11,
+    "startSurahName": "سُورَةُ هُودٍ",
+    "startAyah": 6,
+    "startPage604": 222
+  },
+  {
+    "juzNumber": 13,
+    "arabicName": "وَمَا أُبَرِّئُ",
+    "startSurahId": 12,
+    "startSurahName": "سُورَةُ يُوسُفَ",
+    "startAyah": 53,
+    "startPage604": 242
+  },
+  {
+    "juzNumber": 14,
+    "arabicName": "رُبَمَا",
+    "startSurahId": 15,
+    "startSurahName": "سُورَةُ الحِجۡرِ",
+    "startAyah": 1,
+    "startPage604": 262
+  },
+  {
+    "juzNumber": 15,
+    "arabicName": "سُبْحَانَ الَّذِي",
+    "startSurahId": 17,
+    "startSurahName": "سُورَةُ الإِسۡرَاءِ",
+    "startAyah": 1,
+    "startPage604": 282
+  },
+  {
+    "juzNumber": 16,
+    "arabicName": "قَالَ أَلَمْ",
+    "startSurahId": 18,
+    "startSurahName": "سُورَةُ الكَهۡفِ",
+    "startAyah": 75,
+    "startPage604": 302
+  },
+  {
+    "juzNumber": 17,
+    "arabicName": "اقْتَرَبَ لِلنَّاسِ",
+    "startSurahId": 21,
+    "startSurahName": "سُورَةُ الأَنبِيَاءِ",
+    "startAyah": 1,
+    "startPage604": 322
+  },
+  {
+    "juzNumber": 18,
+    "arabicName": "قَدْ أَفْلَحَ",
+    "startSurahId": 23,
+    "startSurahName": "سُورَةُ المُؤۡمِنُونَ",
+    "startAyah": 1,
+    "startPage604": 342
+  },
+  {
+    "juzNumber": 19,
+    "arabicName": "وَقَالَ الَّذِينَ",
+    "startSurahId": 25,
+    "startSurahName": "سُورَةُ الفُرۡقَانِ",
+    "startAyah": 21,
+    "startPage604": 362
+  },
+  {
+    "juzNumber": 20,
+    "arabicName": "أَمَّنْ خَلَقَ",
+    "startSurahId": 27,
+    "startSurahName": "سُورَةُ النَّمۡلِ",
+    "startAyah": 56,
+    "startPage604": 382
+  },
+  {
+    "juzNumber": 21,
+    "arabicName": "اتْلُ مَا أُوحِيَ",
+    "startSurahId": 29,
+    "startSurahName": "سُورَةُ العَنكَبُوتِ",
+    "startAyah": 46,
+    "startPage604": 402
+  },
+  {
+    "juzNumber": 22,
+    "arabicName": "وَمَنْ يَقْنُتْ",
+    "startSurahId": 33,
+    "startSurahName": "سُورَةُ الأَحۡزَابِ",
+    "startAyah": 31,
+    "startPage604": 422
+  },
+  {
+    "juzNumber": 23,
+    "arabicName": "وَمَا لِيَ",
+    "startSurahId": 36,
+    "startSurahName": "سُورَةُ يسٓ",
+    "startAyah": 28,
+    "startPage604": 442
+  },
+  {
+    "juzNumber": 24,
+    "arabicName": "فَمَنْ أَظْلَمُ",
+    "startSurahId": 39,
+    "startSurahName": "سُورَةُ الزُّمَرِ",
+    "startAyah": 32,
+    "startPage604": 462
+  },
+  {
+    "juzNumber": 25,
+    "arabicName": "إِلَيْهِ يُرَدُّ",
+    "startSurahId": 41,
+    "startSurahName": "سُورَةُ فُصِّلَتۡ",
+    "startAyah": 47,
+    "startPage604": 482
+  },
+  {
+    "juzNumber": 26,
+    "arabicName": "حم",
+    "startSurahId": 46,
+    "startSurahName": "سُورَةُ الأَحۡقَافِ",
+    "startAyah": 1,
+    "startPage604": 502
+  },
+  {
+    "juzNumber": 27,
+    "arabicName": "قَالَ فَمَا خَطْبُكُمْ",
+    "startSurahId": 51,
+    "startSurahName": "سُورَةُ الذَّارِيَاتِ",
+    "startAyah": 31,
+    "startPage604": 522
+  },
+  {
+    "juzNumber": 28,
+    "arabicName": "قَدْ سَمِعَ اللَّهُ",
+    "startSurahId": 58,
+    "startSurahName": "سُورَةُ المُجَادلَةِ",
+    "startAyah": 1,
+    "startPage604": 542
+  },
+  {
+    "juzNumber": 29,
+    "arabicName": "تَبَارَكَ الَّذِي",
+    "startSurahId": 67,
+    "startSurahName": "سُورَةُ المُلۡكِ",
+    "startAyah": 1,
+    "startPage604": 562
+  },
+  {
+    "juzNumber": 30,
+    "arabicName": "عَمَّ يَتَسَاءَلُونَ",
+    "startSurahId": 78,
+    "startSurahName": "سُورَةُ النَّبَإِ",
+    "startAyah": 1,
+    "startPage604": 582
+  }
+]

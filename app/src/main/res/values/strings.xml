@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Holy Quran - القرآن الكريم</string>
+    <string name="home_title">القرآن الكريم</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_surahs">السور</string>
+    <string name="nav_juz">الأجزاء</string>
+    <string name="nav_bookmarks">الإشارات</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="continue_reading">متابعة القراءة</string>
+    <string name="quick_jump">الانتقال السريع</string>
+    <string name="search_hint">ابحث عن سورة أو آية...</string>
+    <string name="search_title">البحث في القرآن الكريم</string>
+    <string name="surah_count_format">%1$d سورة</string>
+    <string name="ayah_count_format">%1$d آية</string>
+    <string name="page_format">صفحة %1$d</string>
+    <string name="juz_format">الجزء %1$d</string>
+    <string name="makki">مكية</string>
+    <string name="madani">مدنية</string>
+    <string name="author_title">Made By Munwar Uddin</string>
+    <string name="author_contact">03022565427</string>
+    <string name="btn_call">Call</string>
+    <string name="btn_whatsapp">WhatsApp</string>
+    <string name="theme_light">فاتح (Pure White)</string>
+    <string name="theme_dark">داكن (Pure Black)</string>
+    <string name="theme_sepia">ورقي (Eye Care Sepia)</string>
+    <string name="theme_night_dim">ليلي خافت (Night Dim)</string>
+    <string name="keep_screen_awake">إبقاء الشاشة مضاءة أثناء القراءة</string>
+    <string name="font_size">حجم الخط</string>
+    <string name="brightness_overlay">مستوى الإضاءة الإضافي</string>
+    <string name="no_bookmarks">لا توجد علامات مرجعية محفوظة حتى الآن</string>
+    <string name="bookmark_added">تم حفظ العلامة المرجعية</string>
+    <string name="bookmark_removed">تم حذف العلامة المرجعية</string>
+</resources>

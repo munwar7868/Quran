@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Star and Crescent atop -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 A5,5 0 1,0 54,36 A4,4 0 1,1 54,26 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,29 L57.2,32 L60,32.2 L57.8,34 L58.5,37 L56,35.3 L53.5,37 L54.2,34 L52,32.2 L54.8,32 Z" />
+
+    <!-- Open Holy Quran Book Pages -->
+    <!-- Left page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M53,42 C45,40 33,41 26,44 C25,44.5 24,45.5 24,47 L24,71 C32,68 44,67 53,69 Z" />
+    <!-- Left page text lines -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M29,49 L49,47 L49,49 L29,51 Z M29,54 L49,52 L49,54 L29,56 Z M29,59 L49,57 L49,59 L29,61 Z M29,64 L45,63 L45,65 L29,66 Z" />
+
+    <!-- Right page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M55,42 C63,40 75,41 82,44 C83,44.5 84,45.5 84,47 L84,71 C76,68 64,67 55,69 Z" />
+    <!-- Right page text lines -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M59,47 L79,49 L79,51 L59,49 Z M59,52 L79,54 L79,56 L59,54 Z M59,57 L79,59 L79,61 L59,59 Z M63,63 L79,64 L79,66 L63,65 Z" />
+
+    <!-- Spine / Center Ribbon -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M53,41 L55,41 L55,73 L54,75 L53,73 Z" />
+
+    <!-- Quran Stand (Rehal) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,71 L54,80 L70,71 L73,74 L54,86 L35,74 Z" />
+    <path
+        android:fillColor="#CCCCCC"
+        android:pathData="M43,79 L31,89 L35,92 L47,82 Z M65,79 L77,89 L73,92 L61,82 Z" />
+</vector>

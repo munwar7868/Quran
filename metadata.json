@@ -1,0 +1,6 @@
+{
+  "name": "Holy Quran - القرآن الكريم",
+  "description": "A complete, offline Holy Quran app with 16-line Mushaf reading, Uthmani script, eye-care modes, 114 Surahs, 30 Juz, bookmarks, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
